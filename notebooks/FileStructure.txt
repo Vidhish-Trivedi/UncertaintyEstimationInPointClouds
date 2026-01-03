@@ -1,0 +1,10 @@
+-rwxrwxrwx 1 gvcl gvcl 129427 Jun  3 11:21 3ModelsforParisLille.ipynb
+-rwxrwxrwx 1 gvcl gvcl 148475 Jul 31 20:34 3ModelsforToronto.ipynb
+drwxrwxrwx 1 gvcl gvcl    512 Jul 31 20:10 Models ---------------------------------------> Folder to save the trained models
+drwxrwxrwx 1 gvcl gvcl    512 Jul 25 16:15 Outputs --------------------------------------> Folder to save outputs
+drwxrwxrwx 1 gvcl gvcl    512 Jul 22 12:38 ProcessedData --------------------------------> Folder with intermediate files and extracted feature files
+drwxrwxrwx 1 gvcl gvcl    512 Jul  9 17:49 RawDatasets ----------------------------------> Folder with raw data
+drwxrwxrwx 1 gvcl gvcl    512 Jul 10 11:48 Scripts --------------------------------------> Misc. scripts
+drwxrwxrwx 1 gvcl gvcl    512 May 16 12:08 TrainTestSplitPkl ----------------------------> To store the train test splits as a backup
+-rwxrwxrwx 1 gvcl gvcl  30022 Jun 30 20:52 jakteristicsForParis.ipynb
+-rwxrwxrwx 1 gvcl gvcl  32448 Jul 22 12:41 jakteristicsForToronto.ipynb
