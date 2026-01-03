@@ -1,0 +1,7 @@
+numpy
+pandas
+pickle
+jakteristics
+plyfile
+tensorflow
+scikit-learn
